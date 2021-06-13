@@ -1,1 +1,1 @@
-module.exports = { publicPath: '/your-repo/' }
+module.exports = { publicPath: '/vue-shop/' }
